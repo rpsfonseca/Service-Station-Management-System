@@ -13,3 +13,5 @@ Service-Station-Management-System
 
     make
 	./service
+	
+(Better experience with terminal fullscreen)
